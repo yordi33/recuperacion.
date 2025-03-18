@@ -1,1 +1,3 @@
-Segundo parcial
+echo "Segundo parcial" > grial.txt
+git add grial.txt
+
